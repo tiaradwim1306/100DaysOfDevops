@@ -6,6 +6,10 @@ Hallo everyone, I'm Tiara.I will use this repository to record my notes as I lea
 - [👩‍💻 It's My Linkedln](https://www.linkedin.com/in/tiara-dwi-maulita-sari-732801214/)
 
 ## The Journey
+from : 
+- https://www.linkedin.com/posts/ann-afamefuna_100-days-of-devops-i-will-lead-you-through-activity-7138485147087093760-R6Kt?utm_source=share&utm_medium=member_desktop
+- https://github.com/ann-afame/DEVOPS-WORLD
+
 ![image](https://github.com/tiaradwim1306/100DaysOfDevops/assets/120786669/3692c883-8c38-447a-bd9d-f12886b6f916)
 ![image](https://github.com/tiaradwim1306/100DaysOfDevops/assets/120786669/f2db7f95-c29d-4319-ad87-7d2e5a0c626b)
 
