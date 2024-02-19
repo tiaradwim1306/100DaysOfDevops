@@ -5,6 +5,11 @@ Hallo everyone, I'm Tiara.I will use this repository to record my notes as I lea
 - [👩‍💻 It's My Twitter](https://twitter.com/tiaradwim1306)
 - [👩‍💻 It's My Linkedln](https://www.linkedin.com/in/tiara-dwi-maulita-sari-732801214/)
 
+## The Journey
+![image](https://github.com/tiaradwim1306/100DaysOfDevops/assets/120786669/3692c883-8c38-447a-bd9d-f12886b6f916)
+![image](https://github.com/tiaradwim1306/100DaysOfDevops/assets/120786669/f2db7f95-c29d-4319-ad87-7d2e5a0c626b)
+
+
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
