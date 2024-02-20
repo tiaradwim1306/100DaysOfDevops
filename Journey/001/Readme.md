@@ -1,6 +1,8 @@
 # DevOps Prerequisites 
 
 ## Introduction
+source : [DevOps Prerequisites Course - Getting started with DevOps - FREE](https://youtu.be/Wvf0mBNGjXY)
+
 Curiculum : 
 1. Linux Basics
 2. Setup Lab Environment
@@ -112,9 +114,6 @@ sehingga kita cukup menambahkan ip di file resolv yang kita gunakan untuk jalan 
 ![image](https://github.com/tiaradwim1306/100DaysOfDevops/assets/120786669/f2398a24-90c6-43c5-b3e2-01441f9a9e76)
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[Twitter](link)
+[Twitter](https://twitter.com/tiaradwim1306/status/1759853098863124701)
 
 
