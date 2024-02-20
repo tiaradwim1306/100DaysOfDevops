@@ -1,52 +1,32 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# DevOps Principles & Philosophy
 
 ## Cloud Research
+source : [DevOps Explained](https://www.youtube.com/watch?v=Xrgk023l4lI)
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Developer : plan, designs, and builds the system from scratch.
+- Operation : for testing and implementation of whatever is developed.
 
-## Try yourself
+![image](https://github.com/tiaradwim1306/100DaysOfDevops/assets/120786669/06d316f1-e74e-4897-be54-762ba0a29ff4)
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+source : [DevOps Principles](https://www.youtube.com/watch?v=VySUutlo91E)
 
-### Step 1 — Summary of Step
+![image](https://github.com/tiaradwim1306/100DaysOfDevops/assets/120786669/99db7fba-11ee-451c-8677-c14b32dc0742)
 
-![Screenshot](https://via.placeholder.com/500x300)
+## C.A.M.S MODEL
 
-### Step 1 — Summary of Step
+### Culture : 
+even though we use some pretty advanced technology and tools and devops at the core of what we're trying to solve are problems related to people and business.
+> culture is defined by the interaction of people in groups and is driven by behavior substantial communication improvement can result when there is a mutual understanding of others and their goals and responsibilities.
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Automation : 
+automation can save time effort and money, the automation principle focuses on people and processes and not just tools the backbone of devops is the practices of continuous delivery and continuous integration.
 
-### Step 3 — Summary of Step
+### measurement : 
+using measurements will help in determining if progress is being made in the intended direction.
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+### Sharing : 
+sharing is caring, this phrase explains the dev ops philosophy better than anything else as
+it highlights the importance of collaboration it is crucial to share feedback best practices and knowledge among teams since this promotes transparency creates collective intelligence and eliminates constraints.
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter](https://twitter.com/tiaradwim1306/status/1759854980130066660)
